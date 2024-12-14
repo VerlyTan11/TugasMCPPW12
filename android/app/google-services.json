@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398426551838",
+    "project_id": "maplabuts-e1d10",
+    "storage_bucket": "maplabuts-e1d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398426551838:android:a8935299677ba13732200f",
+        "android_client_info": {
+          "package_name": "com.beverlyvladislavtan.tugasmcpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPQ11YMVVK6og-zy_v3kOQeseBCKY9h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398426551838:android:02ac2ca7c6a5a4f832200f",
+        "android_client_info": {
+          "package_name": "com.example.if570_lab_uts_BeverlyVladislavTan_00000074964"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPQ11YMVVK6og-zy_v3kOQeseBCKY9h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
